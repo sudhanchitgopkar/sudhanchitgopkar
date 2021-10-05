@@ -4,7 +4,7 @@ I'm a third year @ UGA studying CS + IA. There, I'm working on: <br><br>
 • Directing Sponsorship [@ UGAHacks](https://www.ugahacks.com/) and helping hackers boot up their dreams <br>
 • Managing the website, branding, and online presence [@ UGA MUN](https://ugamunc.com/).
 
-**👨‍💻 currently writing in:** <br><br>
+**👨‍💻 Currently writing in:** <br><br>
 <img align="left" alt="python" src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" />
 <img align="left" alt="java" src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white" />
 <img align="left" alt="c++" src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" />

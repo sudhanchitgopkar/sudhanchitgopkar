@@ -17,14 +17,13 @@ I'm a third year @ UGA studying CS + IA. There, I'm working on: <br><br>
 <img align="left" alt="linux" src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
 <img align="left" alt="git" src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white" /> <br>
 
+
+<!--
+**sudhanchitgopkar/sudhanchitgopkar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------
 **📈 Here's some of my progress:** <br><br>
 
 [![Sudhan's GitHub stats](https://github-readme-stats.vercel.app/api?username=sudhanchitgopkar&theme=tokyonight)](https://github.com/sudhanchitgopkar/github-readme-stats)
-
-
-<!--
-**sudhanchitgopkar/sudhanchitgopkar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 

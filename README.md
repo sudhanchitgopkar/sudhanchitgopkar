@@ -1,4 +1,4 @@
-###  👋 Hi, I'm Sudhan.
+###  👋 Hi there, I'm Sudhan.
 I'm a third year @ UGA studying CS + IA. There, I'm working on: <br><br>
 • Developing core Flight Software (cFS) for UGA's next CubeSat [@ UGA SSRL](http://smallsat.uga.edu/) <br>
 • Directing Sponsorship [@ UGAHacks](https://www.ugahacks.com/) and helping hackers boot up their dreams <br>

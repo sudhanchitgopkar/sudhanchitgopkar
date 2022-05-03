@@ -5,7 +5,7 @@ I'm a third year @ UGA studying CS + IA. Currently, I'm:
 -  🔧  Developing **[JADE](https://github.com/sudhanchitgopkar/jade)**, a lightweight graphics package made from scratch
 -  🧮  Creating mathematical visualizations and **generative art**
 -  💻  Working as an incoming SDE intern @ **AWS**
--  🐶  Advising (ex-directing) **[UGAHacks](https://ugahacks.com/)**
+-  🐶  Advising (ex-director) **[UGAHacks](https://ugahacks.com/)**
 
 If I'm not doing any of those things, you can probably find me [listening](https://open.spotify.com/user/sudhan.chitgopkar?si=7047f7e2c1224def) to music, tinkering with code, or exploring. 
 

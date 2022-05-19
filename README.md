@@ -4,7 +4,7 @@ I'm a third year @ UGA studying CS + IA. Currently, I'm:
 -  📡  Helping beam memes into Low-Earth-Orbit with **[MEMESat-1](https://letsgo2space.com/memesat-1-3/)**
 -  🔧  Developing **[JADE](https://github.com/sudhanchitgopkar/jade)**, a lightweight graphics package made from scratch
 -  🧮  Creating mathematical visualizations and **generative art**
--  💻  Working as an incoming SDE intern @ **AWS**
+-  💻  Working as an SDE intern @ **Amazon**
 -  🐶  Advising (ex-director) **[UGAHacks](https://ugahacks.com/)**
 
 If I'm not doing any of those things, you can probably find me [listening](https://open.spotify.com/user/sudhan.chitgopkar?si=7047f7e2c1224def) to music, tinkering with code, or exploring. 

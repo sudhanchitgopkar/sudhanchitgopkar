@@ -1,5 +1,11 @@
 <h3 align="center">👋 Hi there, I'm Sudhan!</h3>
 
+<p align="center">
+  <a href="https://sudhan.dev/resume.pdf">Resume</a> •
+  <a href="https://sudhan.dev/">Website</a> •
+  <a href="https://www.linkedin.com/in/sudhanchitgopkar/">LinkedIn</a>
+</p>
+
 I'm a third year @ UGA studying CS + IA. Currently, I'm:
 -  📡  Helping beam memes into Low-Earth-Orbit with **[MEMESat-1](https://letsgo2space.com/memesat-1-3/)**
 -  🔧  Developing **[JADE](https://github.com/sudhanchitgopkar/jade)**, a lightweight graphics package made from scratch

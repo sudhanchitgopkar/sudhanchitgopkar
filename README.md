@@ -6,7 +6,7 @@
   <a href="https://www.linkedin.com/in/sudhanchitgopkar/">LinkedIn</a>
 </p>
 
-I'm a third year @ UGA studying CS + IA. Currently, I'm:
+I'm a fourth year @ UGA studying CS + IA. Currently, I'm:
 -  📡  Helping beam memes into Low-Earth-Orbit with **[MEMESat-1](https://letsgo2space.com/memesat-1-3/)**
 -  🔧  Developing **[JADE](https://github.com/sudhanchitgopkar/jade)**, a lightweight graphics package made from scratch
 -  🧮  Creating mathematical visualizations and **generative art**

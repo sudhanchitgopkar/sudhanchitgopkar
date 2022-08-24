@@ -9,7 +9,7 @@
 I'm a fourth year @ UGA studying CS + IA. Currently, I'm:
 -  📡  Helping beam memes into Low-Earth-Orbit with **[MEMESat-1](https://letsgo2space.com/memesat-1-3/)**
 -  🔧  Developing **[JADE](https://github.com/sudhanchitgopkar/jade)**, a lightweight graphics package made from scratch
--  🧮  Creating mathematical visualizations and **generative art**
+-  🧮  Creating mathematical visualizations and **[generative art](https://www.youtube.com/watch?v=la8MevQxLZw)**
 -  💻  Working as an SDE intern @ **Amazon**
 -  🐶  Advising (ex-director) **[UGAHacks](https://ugahacks.com/)**
 

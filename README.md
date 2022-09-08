@@ -6,7 +6,7 @@
   <a href="https://www.linkedin.com/in/sudhanchitgopkar/">LinkedIn</a>
 </p>
 
-I'm a fourth year @ UGA studying CS + IA. Currently, I'm:
+I'm a fourth year @ UGA studying Computer Science + International Affairs. Currently, I'm:
 -  📡  Helping beam memes into Low-Earth-Orbit with **[MEMESat-1](https://letsgo2space.com/memesat-1-3/)**
 -  🔧  Developing **[JADE](https://github.com/sudhanchitgopkar/jade)**, a lightweight graphics package made from scratch
 -  🧮  Creating mathematical visualizations and **[generative art](https://www.youtube.com/watch?v=la8MevQxLZw)**
@@ -16,8 +16,6 @@ I'm a fourth year @ UGA studying CS + IA. Currently, I'm:
 If I'm not doing any of those things, you can probably find me [listening](https://open.spotify.com/user/sudhan.chitgopkar?si=7047f7e2c1224def) to music, tinkering with code, or exploring. 
 
 Interested in my work? Drop me a line at `hi@sudhan.dev` and let's grab a coffee!
-
-
 <!--
 **sudhanchitgopkar/sudhanchitgopkar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------

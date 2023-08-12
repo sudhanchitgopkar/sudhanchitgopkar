@@ -1,6 +1,6 @@
 👋 Hi there!
 
-I'm Sudhan, a grad student @ Harvard University studying [Computational Science & Engineering]([https://en.wikipedia.org/wiki/Computational_science](https://en.wikipedia.org/wiki/Computational_science#:~:text=citation%20needed%5D-,Computational%20science%20in%20engineering,-%5Bedit%5D)).</br>
+I'm Sudhan, a grad student @ Harvard University studying [Computational Science & Engineering](https://en.wikipedia.org/wiki/Computational_science#:~:text=citation%20needed%5D-,Computational%20science%20in%20engineering,-%5Bedit%5D).</br>
 
 Interested in my work? Check out my [resume](https://sudhan.dev/resume.pdf) or drop me a line at `hi@sudhan.dev` and let's grab a coffee!
 <!--

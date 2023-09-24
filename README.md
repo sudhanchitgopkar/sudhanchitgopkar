@@ -3,6 +3,12 @@
 I'm Sudhan, a grad student @ Harvard University studying [Computational Science & Engineering](https://en.wikipedia.org/wiki/Computational_science#:~:text=citation%20needed%5D-,Computational%20science%20in%20engineering,-%5Bedit%5D).</br>
 
 Interested in my work? Check out my [resume](https://sudhan.dev/resume.pdf) or drop me a line at `hi@sudhan.dev` and let's grab a coffee!
+
+| Repo      | Description |
+| ----------- | ----------- |
+| [JADE](https://github.com/sudhanchitgopkar/jade) | 2D & 3D graphics engine built from scratch for mathematical visualization|
+| [Genetic Prisoner](https://github.com/sudhanchitgopkar/genetic_prisoner) | Genetic Algorithm to produce [iterated prisoner's dilemma](https://en.wikipedia.org/wiki/Prisoner%27s_dilemma#:~:text=for%20both%20agents.-,The%20iterated%20prisoner%27s%20dilemma,-%5Bedit%5D) playing automata|
+| [Boids](https://github.com/sudhanchitgopkar/boids) | Visualization and algorithmic competitive co-evolution of predator-prey [Boid](https://en.wikipedia.org/wiki/Boids) flocks|
 <!--
 **sudhanchitgopkar/sudhanchitgopkar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------

@@ -8,7 +8,7 @@ Interested in my work? Check out my [resume](https://sudhan.dev/resume.pdf) or d
 | ----------- | ----------- |
 | [Code the Universe](https://github.com/sudhanchitgopkar/Code-The-Universe) | Lecture notes + code for a course I designed and taught at Harvard|
 | [JADE](https://github.com/sudhanchitgopkar/jade) | 2D & 3D graphics engine built from scratch for mathematical visualization|
-| [Genetic Prisoner](https://github.com/sudhanchitgopkar/genetic_prisoner) | Genetic Algorithm to produce [iterated prisoner's dilemma](https://en.wikipedia.org/wiki/Prisoner%27s_dilemma#:~:text=for%20both%20agents.-,The%20iterated%20prisoner%27s%20dilemma,-%5Bedit%5D) playing automata|
+| [Genetic Prisoner](https://github.com/sudhanchitgopkar/genetic-prisoner) | Genetic Algorithm to produce [iterated prisoner's dilemma](https://en.wikipedia.org/wiki/Prisoner%27s_dilemma#:~:text=for%20both%20agents.-,The%20iterated%20prisoner%27s%20dilemma,-%5Bedit%5D) playing automata|
 | [Boids](https://github.com/sudhanchitgopkar/boids) | Visualization and algorithmic competitive co-evolution of predator-prey [Boid](https://en.wikipedia.org/wiki/Boids) flocks|
 <!--
 **sudhanchitgopkar/sudhanchitgopkar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
